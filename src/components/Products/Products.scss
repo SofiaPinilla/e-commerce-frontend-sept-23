@@ -1,0 +1,12 @@
+.products-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.ant-card{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.08)!important;
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.08)!important;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.08)!important;
+}
